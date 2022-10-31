@@ -17,3 +17,8 @@ For stock market, the relationships between rise/fall Numbers and month
 (3) rise_fall ratio: rise No. / fall No.
 (4) monthly return: (last day point - first day point)/first day point
 (5) the example is Apple index (AAPL)
+
+fintech_stocks01.ipynb:
+For 2 stocks, the relationships between these 2 stocks
+(1) positive relation or negative relation
+(2) use linear regression model to fit the relationship
